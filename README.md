@@ -1,3 +1,3 @@
 ## projeto-html
 
-# Equeipe Prof Eliton Santos
+Equeipe Prof Eliton Santos
